@@ -1,0 +1,46 @@
+header{
+    font-size: 40px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+textarea{
+    align-items: center;
+}
+
+.enun{
+    font-size: 50px;
+	justify-content: justify;
+	font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.caja{
+	border: 2px solid black;
+	border-radius: 3px;
+    
+}
+
+.sub{
+    color: white;
+}
+
+.cont_perfil{
+    color: white;
+}
+body{
+    background-image: url(https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/gallery/600012485bafe82ee3c3c049/cambiar-direccion-ip.jpg);
+}
+
+
+table{
+    border-collapse: separate;
+    border-spacing: 5px;
+    color: #fff;
+}
+td, th{
+    background: #fff;
+    color: #000;
+ }
